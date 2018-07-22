@@ -14,7 +14,7 @@ You can check compatibility by running the `./csgo-blackbars` binary yourself.
 
 Installation is very simple, just place the `bin/csgo-blackbars` binary anywhere in your filesystem. Then make a `~/.csbb` file and write two lines, first line is `csgo resolution` and second line is `origin resolution`.
 
-Example (from example file):
+Example (from [example file](https://github.com/woat/csgo-blackbars/blob/master/.csbb)):
 ```
 dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1024x768 +1920+0 { viewportin=1024x768, viewportout=814x768+100+0}
 dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1920x1080 +1920+0
