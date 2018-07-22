@@ -95,11 +95,13 @@ func readConfigSettings() (string, string) {
 	u, _ := user.Current()
 	f, _ := os.Open(u.HomeDir + "/.csbb")
 	defer f.Close()
+
 	s := bufio.NewScanner(f)
 	settings := []string{}
 	for s.Scan() {
 		settings = append(settings, s.Text())
 	}
+
 	return settings[0], settings[1]
 }
 
