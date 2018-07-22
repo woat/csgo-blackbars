@@ -12,7 +12,11 @@ You can check compatibility by running the `./csgo-blackbars` binary yourself.
 
 ### Installation
 
-Installation is very simple, just place the `bin/csgo-blackbars` binary anywhere in your filesystem. Then make a `~/.csbb` file and write two lines, first line is `csgo resolution` and second line is `origin resolution`.
+Installation is very simple, just place the `bin/csgo-blackbars` binary anywhere in your filesystem. Then make a `~/.csbb` file and write two lines, first line is `csgo resolution` and second line is `origin resolution`. Then set the launch options to `path/of/binary %command%`. 
+
+Read further for more detail.
+
+### Setting up .csbb
 
 Example (from [example file](https://github.com/woat/csgo-blackbars/blob/master/.csbb)):
 ```
@@ -28,6 +32,8 @@ You can get these settings by opening up the NVIDIA X Server Settings and clicki
 ![](https://i.imgur.com/n3pLqFN.png)
 
 Just repeat this step again with your desired CSGO resolution.
+
+### Setting up launch options
 
 All that's left to do is set your launch options as follows:
 ```
