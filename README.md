@@ -16,7 +16,7 @@ Installation is very simple, just place the `bin/csgo-blackbars` binary anywhere
 
 Example (from [example file](https://github.com/woat/csgo-blackbars/blob/master/.csbb)):
 ```
-dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1024x768 +1920+0 { viewportin=1024x768, viewportout=814x768+100+0}
+dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1024x768 +1920+0 {viewportin=1024x768, viewportout=814x768+100+0}
 dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1920x1080 +1920+0
 ```
 
