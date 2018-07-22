@@ -18,7 +18,7 @@ Read further for more detail.
 
 ### Setting up .csbb
 
-Example (from [example file](https://github.com/woat/csgo-blackbars/blob/master/.csbb)):
+Example (from [example .csbb](https://github.com/woat/csgo-blackbars/blob/master/.csbb)):
 ```
 dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1024x768 +1920+0 {viewportin=1024x768, viewportout=814x768+100+0}
 dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1920x1080 +1920+0
@@ -44,3 +44,9 @@ My launch options look like this:
 ![](https://i.imgur.com/hZjyBod.png)
 
 Now you can click OK and start your game.
+
+# Troubleshooting
+
+You can simply run the binary directly by typing `./csgo-blackbars` while in the same directory. This will enable troubleshooting mode and log out any errors that are occuring.
+
+If the troubleshooter fails to find any error and the program still doesn't work, feel free to open up an issue or make a pull request. Please make sure to be as descriptive as possible and post system specs.
