@@ -63,7 +63,7 @@ func main() {
 		if nvErr == nil && sErr == nil {
 			fmt.Println("Requirements have been met.")
 			fmt.Println("Make sure to write your settings in ~/.csbb")
-	//		os.Exit(3)
+			os.Exit(3)
 		}
 	}
 

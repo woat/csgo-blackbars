@@ -1,1 +1,3 @@
-# csgo-blackbars
+# CSGO Black Bars
+
+
