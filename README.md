@@ -18,7 +18,7 @@ dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1024x768 +1920+0 { viewportin=1024x76
 dvi-i-0: nvidia-auto-select +0+0, dvi-i-3: 1920x1080 +1920+0
 ```
 
-Black bars can be achieved changing the last two `+X+Y` numbers after `ViewPortOut`.
+Black bars can be achieved by changing the last two `+X+Y` (adjust `+X`) numbers after `ViewPortOut`.
 
 You can get these settings by opening up the NVIDIA X Server Settings and clicking `Save to X Configuration File` and saving it. 
 
