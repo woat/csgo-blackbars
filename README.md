@@ -8,6 +8,8 @@ Requirements:
 
 If you are using anything else, you can probably use `xrandr` for better compatibility. This tool is made specifically for those who are running into issues with proprietary drivers offered by NVIDIA.
 
+You can check compatibility by running the `./csgo-blackbars` binary yourself.
+
 ### Installation
 
 Installation is very simple, just place the `bin/csgo-blackbars` binary anywhere in your filesystem. Then make a `~/.csbb` file and write two lines, first line is `csgo resolution` and second line is `origin resolution`.
