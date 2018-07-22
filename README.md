@@ -31,7 +31,7 @@ You can get these settings by opening up the NVIDIA X Server Settings and clicki
 ![](https://i.imgur.com/IBGgO9b.png)
 ![](https://i.imgur.com/n3pLqFN.png)
 
-Just repeat this step again with your desired CSGO resolution.
+As you can see, these are my `origin resolution` settings. Just repeat this step again with your desired CSGO resolution.
 
 ### Setting up launch options
 
