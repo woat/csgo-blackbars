@@ -12,7 +12,7 @@ You can check compatibility by running the `./csgo-blackbars` binary yourself.
 
 ### Installation
 
-Installation is very simple, just place the `bin/csgo-blackbars` binary anywhere in your filesystem. Then make a `~/.csbb` file and write two lines, first line is `csgo resolution` and second line is `origin resolution`. Then set the launch options to `path/of/binary %command%`. 
+Installation is very simple, just place the `csgo-blackbars` binary anywhere in your filesystem. Then make a `~/.csbb` file and write two lines, first line is `csgo resolution` and second line is `origin resolution`. Then set the launch options to `path/of/binary %command%`. 
 
 Read further for more detail.
 
