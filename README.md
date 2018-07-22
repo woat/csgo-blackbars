@@ -29,9 +29,10 @@ Black bars can be achieved by changing the last two `+X+Y` (adjust `+X`) numbers
 You can get these settings by opening up the NVIDIA X Server Settings and clicking `Save to X Configuration File` and saving it. 
 
 ![](https://i.imgur.com/IBGgO9b.png)
-![](https://i.imgur.com/n3pLqFN.png)
 
-As you can see, these are my `origin resolution` settings. Just repeat this step again with your desired CSGO resolution.
+You can then navigate to the `.conf` file that you saved and open it up in your favorite text editor. You would simply copy and paste the line required (as shown below) into your `.csbb`.
+
+![](https://i.imgur.com/n3pLqFN.png)
 
 ### Setting up launch options
 
