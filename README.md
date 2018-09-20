@@ -1,5 +1,7 @@
 # CSGO Black Bars
 
+![](https://goreportcard.com/badge/github.com/woat/csgo-blackbars)
+
 A simple resolution switcher to change native resolution while playing CSGO.
 
 Requirements:
